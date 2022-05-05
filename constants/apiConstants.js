@@ -1,9 +1,6 @@
 const PORT = 5000;
 const QUESTIONS = [
     {
-        "category": "Entertainment: Comics",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
         "correct_answer": "Think it’s more important to give them some of your time; work can wait",
         "incorrect_answers": [
@@ -13,9 +10,6 @@ const QUESTIONS = [
         ]
     },
     {
-        "category": "Entertainment: Comics",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
         "correct_answer": "Explain to other equally impatient people in the room that the doctor is always running late",
         "incorrect_answers": [
@@ -25,9 +19,6 @@ const QUESTIONS = [
         ]
     },
     {
-        "category": "Entertainment: Comics",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
         "correct_answer": "Think that they are obviously right",
         "incorrect_answers": [
@@ -37,9 +28,6 @@ const QUESTIONS = [
         ]
     },
     {
-        "category": "Entertainment: Comics",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "You are taking part in a guided tour of a museum. You:",
         "correct_answer": "Follow the group without question",
         "incorrect_answers": [
@@ -49,9 +37,6 @@ const QUESTIONS = [
         ]
     },
     {
-        "category": "Entertainment: Comics",
-        "type": "multiple",
-        "difficulty": "easy",
         "question": "During dinner parties at your home, you have a hard time with people who:",
         "correct_answer": "Ask you to tell a story in front of everyone else",
         "incorrect_answers": [
